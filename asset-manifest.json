@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/psilari/static/css/main.073c9b0a.css",
-    "main.js": "/psilari/static/js/main.196b6e5b.js",
-    "static/js/787.c779603d.chunk.js": "/psilari/static/js/787.c779603d.chunk.js",
-    "static/media/logo.svg": "/psilari/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/psilari/index.html",
-    "main.073c9b0a.css.map": "/psilari/static/css/main.073c9b0a.css.map",
-    "main.196b6e5b.js.map": "/psilari/static/js/main.196b6e5b.js.map",
-    "787.c779603d.chunk.js.map": "/psilari/static/js/787.c779603d.chunk.js.map"
+    "main.css": "/psilariportifolio/static/css/main.073c9b0a.css",
+    "main.js": "/psilariportifolio/static/js/main.9bd94dc0.js",
+    "static/js/787.c779603d.chunk.js": "/psilariportifolio/static/js/787.c779603d.chunk.js",
+    "static/media/logo.svg": "/psilariportifolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/psilariportifolio/index.html",
+    "main.073c9b0a.css.map": "/psilariportifolio/static/css/main.073c9b0a.css.map",
+    "main.9bd94dc0.js.map": "/psilariportifolio/static/js/main.9bd94dc0.js.map",
+    "787.c779603d.chunk.js.map": "/psilariportifolio/static/js/787.c779603d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.196b6e5b.js"
+    "static/js/main.9bd94dc0.js"
   ]
 }
